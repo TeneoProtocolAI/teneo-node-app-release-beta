@@ -13,6 +13,7 @@ See the [Releases](https://github.com/TeneoProtocolAI/teneo-node-app-release-bet
 | **Linux (Ubuntu/Debian)** | `.deb` | `sudo dpkg -i teneo-node_*.deb` |
 | **Linux (Fedora/RHEL)** | `.rpm` | `sudo rpm -i teneo-node-*.rpm` |
 | **Android** | `.apk` | See install instructions below |
+| **Raspberry Pi** | — | 🔜 Coming Soon |
 
 ## Install Instructions
 
@@ -51,13 +52,14 @@ sudo rpm -i teneo-node-0.2.0-beta-1.x86_64.rpm
 ## What's Included
 
 - **Teneo Points** — earn by keeping the app running
-- **Beacon System** — claim and boost fragments every 8 hours
-- **Multi-device Fleet** — run nodes on multiple devices
+- **Beacon System** — claim and boost fragments every 8 hours to multiply your rewards
+- **Multi-device Fleet** — run nodes on multiple devices to earn faster
 - **Conversion Hub** — preview your future token rewards (coming soon)
+- **In-app Feedback** — report bugs and share ideas directly from the app
 
 ## Feedback
 
-Use the in-app feedback form: **Settings → Feedback**
+Use the in-app feedback form: **Settings → Send Feedback**
 
 Or join our community:
 - [Discord](https://discord.gg/teneoprotocol)
