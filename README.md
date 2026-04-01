@@ -25,6 +25,7 @@ See the [Releases](https://github.com/TeneoProtocolAI/teneo-node-app-release-bet
 | **macOS** | `.dmg` | [Install instructions](#macos) |
 | **Linux (Ubuntu/Debian)** | `.deb` | [Install instructions](#linux) |
 | **Linux (Fedora/RHEL)** | `.rpm` | [Install instructions](#linux) |
+| **Raspberry Pi** | — | 🔜 Coming Soon |
 
 ---
 
