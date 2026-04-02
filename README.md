@@ -78,7 +78,7 @@ Install → Connect → Start earning immediately.
 3. When opening for the first time, go to **System Settings → Privacy & Security**
 4. Scroll down and click **Open Anyway** next to the Teneo Protocol Node message
 
-> Apple Developer signing is being finalized. Future releases won't require these steps.
+> The app is signed with an Apple Developer ID certificate. Notarization is being processed — once complete, this step won't be needed.
 
 ### Linux
 ```bash
