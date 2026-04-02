@@ -19,7 +19,7 @@ See the [Releases](https://github.com/TeneoProtocolAI/teneo-node-app-release-bet
 
 | Platform | File | Notes |
 |----------|------|-------|
-| **iOS** | TestFlight | [Join TestFlight](#ios) |
+| **iOS** | TestFlight | 🔜 Coming Soon |
 | **Android** | `.apk` | [Install instructions](#android) |
 | **Windows** | `.exe` | [Install instructions](#windows) |
 | **macOS** | `.dmg` | [Install instructions](#macos) |
@@ -56,7 +56,7 @@ Install → Connect → Start earning immediately.
 ## Install Instructions
 
 ### iOS
-1. Join TestFlight: *Link coming soon*
+1. Join TestFlight: 🔜 Coming Soon (pending Apple Beta App Review)
 2. Install **Teneo Protocol Node** from TestFlight
 3. Log in with your Teneo account
 
