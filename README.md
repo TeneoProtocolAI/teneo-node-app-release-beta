@@ -1,17 +1,22 @@
 # Teneo Protocol Node — Beta Release
 
-**Teneo Protocol Node** — aka **the Beacon** — is the next evolution of your contribution to the Teneo network. This isn't a browser tab. This is a real node, running natively on your device, powering the agentic infrastructure that makes Teneo work.
+**Teneo Protocol Beacon** is a cross-platform app that lets you contribute to Teneo Protocol's full stack agentic infrastructure by sharing unused internet bandwidth, while earning **Teneo Points** and **Fragments** in return.
 
-AI agents need real residential IPs to operate — yours. Every device you connect becomes infrastructure that powers the next generation of autonomous agents. You're not just earning rewards. You're building the backbone.
+You can contribute to the ecosystem and earn rewards through a simple loop:
+**Connect**, **Earn**, **Boost**, **Repeat**.
 
-> **Beta is live.** You're among the first Martians to run a real node. Everything you earn now carries forward.
+Get set up in minutes, run your node in the background, and start accumulating rewards as each of your devices contributes to the full stack agentic infra network.
 
-## Why Upgrade From the Extension
+---
 
-- **2x Teneo Points** — earn double points compared to the Community Node extension
-- **Fragments** — an entirely new reward layer. Boost every 8h for up to 3x earnings
-- **Stack your nodes** — run on every device you own, each unique IP earns independently. One account, multiplied rewards.
-- **The Expedition Hub is coming** — and where you stand when it opens depends on what you accumulate today. Early contributors won't be forgotten.
+## Why Upgrade?
+
+- 🔥 **2x Teneo Points** compared to the extension
+- 💎 **Fragments** — a new reward layer. Boost every 8h for up to 3x earnings
+- 📱 **Stack your nodes** — run on every device you own. Each IP earns independently. One account, multiplied rewards.
+- 🗺️ **The Expedition Hub** is coming soon — embark on quests, hunt for real treasures, and unlock exclusive rewards using your Points and Fragments
+- ⏳ Early users have more time to accumulate rewards and multiply earnings
+
 
 ## Downloads
 
