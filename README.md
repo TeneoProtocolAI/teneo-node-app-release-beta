@@ -62,7 +62,7 @@ Install → Connect → Start earning immediately.
 
 ### iOS
 1. Join TestFlight: 🔜 Coming Soon (pending Apple Beta App Review)
-2. Install **Teneo Protocol Node** from TestFlight
+2. Install **Teneo Protocol Beacon** from TestFlight
 3. Log in with your Teneo account
 
 ### Android
@@ -79,7 +79,7 @@ Install → Connect → Start earning immediately.
 
 ### macOS
 1. Download the `.dmg` file
-2. Open the DMG and drag **Teneo Protocol Node** to Applications
+2. Open the DMG and drag **Teneo Beacon** to Applications
 3. When opening for the first time, go to **System Settings → Privacy & Security**
 4. Scroll down and click **Open Anyway** next to the Teneo Protocol Node message
 
