@@ -71,7 +71,7 @@ Install → Connect → Start earning immediately.
 3. Tap **Install**
 
 ### Windows
-1. Download the `.exe` file
+1. Download the `.msi` file
 2. Double-click to run
 3. If you see "Windows protected your PC":
    - Click **More info**
