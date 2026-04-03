@@ -49,13 +49,6 @@ Install → Connect → Start earning immediately.
 
 **The loop: Connect → Earn → Boost → Grow**
 
-## What's Coming
-
-- **Expedition Hub** — Quests, treasures, and exclusive rewards using your Points and Fragments
-- **Expanded Rewards** — Gamified drops, partner incentives, and more
-- **Fleet Insights** — Track and optimize earnings across all your devices
-- **Leaderboards & Challenges** — Community competition and milestone rewards
-
 ---
 
 ## Install Instructions
