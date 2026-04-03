@@ -32,6 +32,9 @@ See the [Releases](https://github.com/TeneoProtocolAI/teneo-node-app-release-bet
 | **Linux (Fedora/RHEL)** | `.rpm` | [Install instructions](#linux) |
 | **Raspberry Pi** | — | 🔜 Coming Soon |
 
+
+⚠️ Beta Disclaimer This is an early release — bugs may happen, things will change, and we'll keep shipping updates. Your feedback makes it better. Thanks for being here early. 🛸
+
 ---
 
 ## How It Works
