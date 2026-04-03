@@ -1,4 +1,4 @@
-# Teneo Protocol Node — Beta Release
+# Teneo Protocol Beacon — Beta Release
 
 **Teneo Protocol Beacon** is a cross-platform app that lets you contribute to Teneo Protocol's full stack agentic infrastructure by sharing unused internet bandwidth, while earning **Teneo Points** and **Fragments** in return.
 
