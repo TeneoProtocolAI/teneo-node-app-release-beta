@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@teneo-protocol/cli": "^2.0.64"
+  }
+}
