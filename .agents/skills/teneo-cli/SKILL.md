@@ -995,9 +995,9 @@ Show installed and latest available version
 
 ## Available Agents
 
-<!-- AGENTS_LIST -->
+Use the CLI to discover agents dynamically rather than relying on hard-coded names. Prefer `list-agents --search` to find a candidate, then inspect it with `info <agentId>` before sending a command.
 
-## Available Agents
+<!-- AGENTS_LIST -->
 
 | Agent | Commands | Description |
 |-------|:--------:|-------------|

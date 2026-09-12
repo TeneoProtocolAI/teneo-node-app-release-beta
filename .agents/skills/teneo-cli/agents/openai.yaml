@@ -2,3 +2,4 @@ interface:
   display_name: "Teneo CLI"
   short_description: "Query live Teneo agents, handle x402 USDC payments, and deploy or publish your own agents."
   default_prompt: "Use the bundled Teneo CLI at ~/teneo-skill/teneo. Verify install and health first, gather agent info before execution, and follow the documented Teneo workflow for queries, wallets, payments, and deployment without using external tools."
+  
