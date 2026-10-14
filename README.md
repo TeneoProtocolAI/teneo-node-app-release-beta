@@ -39,7 +39,7 @@ You can disconnect at any time.
 | **Fragments** | Earned continuously while your Beacon is online. |
 | **Beacon Power** | Claim your Fragments every 8 hours to grow a multiplier of up to 3x. Consistency is rewarded; missed windows decay it gradually, and earned Fragments are never lost. |
 | **Teneo Points** | Earned alongside Fragments while your node is connected. |
-| **Seasons & Beacon Drops** | Each season ends with USDC prize draws for active operators. Across Seasons 1–4, **7,500+ USDC** has been awarded to **2,300+ winners**. |
+| **USDC rewards** | Fragments can also count toward community rewards such as USDC prize draws. **7,500+ USDC** has been awarded to **2,300+ winners** so far. |
 | **Referrals** | Earn a share of the Fragments your referrals generate, plus milestone bonuses and a growing referral multiplier. |
 | **Your fleet** | Run Beacon on every device you own. Each device on its own internet connection earns on its own. |
 
@@ -49,7 +49,7 @@ Track everything — Fragments, quests, referrals and your device fleet — in t
 
 - **Opt-in, always.** Beacon asks for your explicit consent before it shares anything, and you can stop at any time.
 - **Your private network stays private.** Beacon refuses connections to your local network, your router and other private or loopback addresses.
-- **Abuse-prone ports are blocked on the device.** Email sending, remote login, DNS, file sharing, databases and device-debugging ports are refused by the app itself, regardless of what the network asks for.
+- **Built-in safeguards.** Risky connection types are refused on the device itself.
 - **No access to your data.** Beacon relays network connections only. It does not read your files, browsing history, contacts or other apps.
 - **Fair use.** Bandwidth contributed per device is limited, so Beacon stays light on your data plan and battery.
 - **Home and mobile connections only.** Beacon is built for real residential and mobile internet connections. VPNs and proxies are not supported.
